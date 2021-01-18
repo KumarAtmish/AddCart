@@ -1,0 +1,36 @@
+.btn-wrapper {
+  background-color: blue;
+  border: none;
+  padding: 10px;
+  border-radius: 4px;
+  color: #fff;
+}
+.remove-cart-btn {
+  background-color: red;
+  margin-top: 8px;
+  border: none;
+  padding: 10px;
+  border-radius: 4px;
+  color: #fff;
+}
+.img-wrapper img {
+  width: 135px;
+  margin-top: -10px;
+}
+
+.add-to-card {
+  width: 61px;
+  position: absolute;
+  right: 5%;
+  top: 3%;
+}
+.data {
+  position: absolute;
+  right: 5%;
+  top: -3px;
+  z-index: 1;
+  background-color: red;
+  padding: 4px;
+  color: #fff;
+  border-radius: 50%;
+}
